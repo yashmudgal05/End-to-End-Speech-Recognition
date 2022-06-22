@@ -17,7 +17,7 @@
 
 <p style="color:gray;font-size:15px"> Some articles and reference blogs about ths problem statement</p>
 
-<p style="color:gray;font-size:16px"> We are referred to some research papers and open source projects/repositories maintained below </p>
+<p style="color:gray;font-size:16px"> I referred to some research papers and open source projects/repositories maintained below </p>
 
 <h3 style="color:red">Research Papers</h3>
 
@@ -25,7 +25,7 @@
   <li><a href="https://arxiv.org/pdf/1512.02595.pdf">Deep Speech 2: End-to-End Speech Recognition in
 English and Mandarin</a></li>
   <li><a href="https://arxiv.org/pdf/1904.03288.pdf">Jasper: An End-to-End Convolutional Neural Acoustic Model</a></li>
-  <li><a href="https://arxiv.org/pdf/1508.01211.pdf">Listen,Attend and Spell</a></li>
+  <li><a href="https://arxiv.org/pdf/1508.01211.pdf">Listen, Attend and Spell</a></li>
 </ul>
 
 <h3 style="color:red">Open Source Projects</h3>
@@ -47,13 +47,13 @@ English and Mandarin</a></li>
     <li><b style="color:red">Interpretability:</b> As long as the speaker has spoken he/she wanted to check what are they spoken, they don't what to know how the model predicting that, so in this case, interpretability not importent.</li>
   <li><b style="color:red">Word Error Rate: </b> Word error rate (WER) is a common metric of the performance of a speech recognition or machine translation system. The general difficulty of measuring performance lies in the fact that the recognized word sequence can have a different length from the reference word sequence (supposedly the correct one).</li></ul>
 
-<p><b style="color:green"> Our goal is to train best model that gives low Word Error Rate(WER) </b></p>
+<p><b style="color:green"> My goal is to train best model that gives low Word Error Rate(WER) </b></p>
 
 <h1 style="color:green">2. Machine Learning Problem Formaulation</h1>
 
 <h2 style="color:blue">2.1 Data Collection</h2>
 
-<p style="color:gray;font-size:15px">We want to use some open-source datasets, that are available online</p>
+<p style="color:gray;font-size:15px">I have used some open-source datasets, that are available online</p>
 
 <ul style="color:gray">
     <li><b><a href="https://www2.imda.gov.sg/NationalSpeechCorpus">National Speech Corpus:</a></b><p1> Contains 2000 hours of locally accented audio and text transcriptions</p1></li>
@@ -253,7 +253,7 @@ Number of unique words : 16421
 
 - Extracting features from audio data, The most importent step in ML is extracting features from raw data.
 
-- In this section we will see how to extract features from raw audio/speech
+- In this section I have included how to extract features from raw audio/speech
 - 1. What is simple wave and how it look likes ?
 - 2. What is complex wave and how it look likes ?
 - 3. What is audio/speech wave and how it look likes ?
